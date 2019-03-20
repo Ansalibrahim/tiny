@@ -15,7 +15,7 @@ A tiny function that removes all spaces from a string.
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@ansal_ali/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
