@@ -1,0 +1,14 @@
+{
+  "name": "@ansal_ali/tiny",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "ansal_ali/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
+}
